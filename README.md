@@ -3,6 +3,7 @@
   - [Requirements](#requirements)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Testing](#testing)
 
 # logParser
 
@@ -51,3 +52,12 @@ To analyze the log file, run the following command:
 
 ```sh
 npm run analyse
+```
+
+## Testing
+
+To run unit tests, run the following command:
+
+```sh
+npm run test
+```
